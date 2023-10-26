@@ -1,0 +1,145 @@
+{
+    "children": [
+        {
+            "id": "B",
+            "name": "Business",
+            "children": [
+                {
+                    "id": "B.MG",
+                    "name": "Management",
+                    "parentId": "B"
+                },
+                {
+                    "id": "B.OP",
+                    "name": "Operations",
+                    "parentId": "B"
+                },
+                {
+                    "id": "B.AD",
+                    "name": "Administration",
+                    "parentId": "B"
+                }
+            ]
+        },
+        {
+            "id": "I",
+            "name": "Inforamtion",
+            "children": [
+                {
+                    "id": "I.SD",
+                    "name": "Software Development",
+                    "parentId": "I",
+                    "children": [
+                        {
+                            "id": "I.SD.VC",
+                            "name": "Version Control",
+                            "parentId": "I.SD"
+                        },
+                        {
+                            "id": "I.SD.AG",
+                            "name": "Agile Methodologies",
+                            "parentId": "I.SD"
+                        },
+                        {
+                            "id": "I.SD.CI",
+                            "name": "CI/CD",
+                            "parentId": "I.SD"
+                        }
+                    ]
+                },
+                {
+                    "id": "I.DA",
+                    "name": "Data and Analytics",
+                    "parentId": "I",
+                    "children": [
+                        {
+                            "id": "I.DA.VIS",
+                            "name": "Data Visualization",
+                            "parentId": "I.DA"
+                        },
+                        {
+                            "id": "I.DA.MOD",
+                            "name": "Data Modeling",
+                            "parentId": "I.DA"
+                        },
+                        {
+                            "id": "I.DA.DW",
+                            "name": "Data Warehousing",
+                            "parentId": "I.DA"
+                        },
+                        {
+                            "id": "I.DA.ARC",
+                            "name": "Data Architecture",
+                            "parentId": "I.DA"
+                        }
+                    ]
+                },
+                {
+                    "id": "I.DB",
+                    "name": "Database Systems",
+                    "parentId": "I"
+                },
+                {
+                    "id": "I.PL",
+                    "name": "Programming Languages",
+                    "parentId": "I",
+                    "children": [
+                        {
+                            "id": "I.PL.CPP",
+                            "name": "C++",
+                            "parentId": "I.PL"
+                        },
+                        {
+                            "id": "I.PL.C",
+                            "name": "C",
+                            "parentId": "I.PL"
+                        },
+                        {
+                            "id": "I.PL.C#",
+                            "name": "I.PL"
+                        },
+                        {
+                            "id": "I.PL.JS",
+                            "name": "JavaScript",
+                            "parentId": "I.PL"
+                        },
+                        {
+                            "id": "I.PL.J",
+                            "name": "Java",
+                            "parentId": "I.PL"
+                        }
+                    ]
+                },
+                {
+                    "id": "I.WD",
+                    "name": "Web Development",
+                    "parentId": "I"
+                },
+                {
+                    "id": "I.CC",
+                    "name": "Cloud Computing",
+                    "parentId": "I"
+                },
+                {
+                    "id": "I.CY",
+                    "name": "Cybersecurity",
+                    "parentId": "I"
+                },
+                {
+                    "id": "I.AI",
+                    "name": "AI and ML",
+                    "parentId": "I"
+                }
+            ]
+        },
+        {
+            "id": "D",
+            "name": "Design"
+        },
+        {
+            "id": "E",
+            "name": "Engineering"
+        }
+    ],
+    "id": "root"
+}

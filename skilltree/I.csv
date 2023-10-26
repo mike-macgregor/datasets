@@ -1,0 +1,10 @@
+id,name,parentId
+I.SD,Software Development,I
+I.DA,Data and Analytics,I
+I.DB,Database Systems,I
+I.PL,Programming Languages,I
+I.WD,Web Development,I
+I.CC,Cloud Computing,I
+I.CY,Cybersecurity,I
+I.AI,AI and ML,I
+I.OP,Operating Platforms,I

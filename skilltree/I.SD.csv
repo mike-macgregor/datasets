@@ -1,0 +1,5 @@
+id,name,parentId
+I.SD.VC,Version Control,I.SD
+I.SD.AG,Agile Methodologies,I.SD
+I.SD.CI,CI/CD,I.SD
+I.SD.AL,Algorithms,I.SD

@@ -1,0 +1,5 @@
+id,name,parentId
+B.MG,Management,B
+B.OP,Operations,B
+B.AD,Administration,B
+B.AP,Applications,B

@@ -1,0 +1,5 @@
+id,name,parentId
+S.IP,Interpersonal,S 
+S.VA,Values,S 
+S.AT,Attributes,S 
+S.ST,Situational,S 
