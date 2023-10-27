@@ -24,7 +24,7 @@ I.DA.ARC,Data Architecture,I.DA
 I.DA.ENG,Data Engineering,I.DA
 I.PL.CPP,C++,I.PL
 I.PL.C,C,I.PL
-I.PL.C#,I.PL
+I.PL.CSP,C#,I.PL
 I.PL.JS,JavaScript,I.PL
 I.PL.J,Java,I.PL
 I.PL.PY,Python,I.PL
