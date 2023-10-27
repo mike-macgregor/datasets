@@ -1,9 +1,54 @@
-id,name,parentId
-B,Business
-I,Inforamtion
-D,Design
-E,Engineering
-S,Soft Skills
+id,name,parentId,employer,position,hours,
+B,Business,
+B.MG,Management,B
+B.OP,Operations,B
+B.AD,Administration,B
+B.AP,Applications,B
+B.MG.ME,Mentoring,B.MG
+B.MG.TR,Training,B.MG
+B.MG.TM,Tearm Management,B.MG
+B.MG.VM,Vendor Management,B.MG
+B.OP.CLT,Client Relations,B.OP
+B.OP.STK,Stakeholder Management,B.OP
+B.OP.BPI,Process Improvement,B.OP
+B.OP.RSK,Risk Management,B.OP
+B.OP.CMP,Compliance,B.OP
+B.AD.CON,Contract Management,B.AD
+B.AD.SCH,Scheduling,B.AD
+B.AD.INV,Inventory Management,B.AD
+B.AP.OFF,M365,B.AP
+B.AP.CRM,CRM,B.AP
+B.AP.CDP,CDP,B.AP
+B.AP.FIN,Financial Software,B.AP
+B.AP.MKT,Marketing Applications,B.AP
+S,Soft Skills,
+S.VA,Values,S
+S.AT,Attributes,S
+S.ST,Situational,S
+S.AT.FLX,Flexibility,S.AT
+S.AT.IND,Independent,S.AT
+S.ST.AT,Analytical Thinking,S.ST
+S.AT.COL,Collaborative,S.AT
+S.ST.CT,Critical Thinking,S.ST
+S.VA.DO,Attention to Detail,S.VA
+S.AT.PS,Problem Solving,S.AT
+S.AT.TI,Initiatve Taker,S.AT
+S.VA.RES,Responsibility,S.VA
+S.VA.O,Ownership,S.VA
+S.ST.TL,Team Leader,S.AT
+S.AT.TM,Time Management,S.ST
+S.VA.C,Communication,S.VA
+S.AT.INN,Innovative,S.AT
+S.ST.C,Coordnating Teams,S.ST
+S.AT.P,Proactive,S.AT
+S.VA.REL,Reliability,S.VA
+S.ST.CRE,Creative Thinking,S.ST
+S.ST.ST,Strategic Thinking,S.ST
+S.ST.CON,Conflict Resolution,S.ST
+S.VA.EM,Empathy,S.VA
+S.ST.DWO,Dealing with Objection,S.ST
+S.VA.PRO,Professionalism,S.VA
+I,Information
 I.SD,Software Development,I
 I.DA,Data and Analytics,I
 I.DB,Database Systems,I
@@ -13,10 +58,6 @@ I.CC,Cloud Computing,I
 I.CY,Cybersecurity,I
 I.AI,AI and ML,I
 I.OP,Operating Platforms,I
-B.MG,Management,B
-B.OP,Operations,B
-B.AD,Administration,B
-B.AP,Applications,B
 I.DA.VIS,Data Visualization,I.DA
 I.DA.MOD,Data Modeling,I.DA
 I.DA.DW,Data Warehousing,I.DA
@@ -31,4 +72,4 @@ I.PL.PY,Python,I.PL
 I.SD.VC,Version Control,I.SD
 I.SD.AG,Agile Methodologies,I.SD
 I.SD.CI,CI/CD,I.SD
-I.SD.AL,Algorithms,I.SD
+I.SD.SCI,Computer Science,I.SD
