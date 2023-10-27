@@ -1,0 +1,34 @@
+id,name,parentId
+B,Business
+I,Inforamtion
+D,Design
+E,Engineering
+S,Soft Skills
+I.SD,Software Development,I
+I.DA,Data and Analytics,I
+I.DB,Database Systems,I
+I.PL,Programming Languages,I
+I.WD,Web Development,I
+I.CC,Cloud Computing,I
+I.CY,Cybersecurity,I
+I.AI,AI and ML,I
+I.OP,Operating Platforms,I
+B.MG,Management,B
+B.OP,Operations,B
+B.AD,Administration,B
+B.AP,Applications,B
+I.DA.VIS,Data Visualization,I.DA
+I.DA.MOD,Data Modeling,I.DA
+I.DA.DW,Data Warehousing,I.DA
+I.DA.ARC,Data Architecture,I.DA
+I.DA.ENG,Data Engineering,I.DA
+I.PL.CPP,C++,I.PL
+I.PL.C,C,I.PL
+I.PL.C#,I.PL
+I.PL.JS,JavaScript,I.PL
+I.PL.J,Java,I.PL
+I.PL.PY,Python,I.PL
+I.SD.VC,Version Control,I.SD
+I.SD.AG,Agile Methodologies,I.SD
+I.SD.CI,CI/CD,I.SD
+I.SD.AL,Algorithms,I.SD
