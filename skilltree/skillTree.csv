@@ -1,4 +1,4 @@
-id,name,parentId,employer,position,hours,
+id,name,parentId
 B,Business,
 B.MG,Management,B
 B.OP,Operations,B
