@@ -48,19 +48,18 @@ S.ST.CON,Conflict Resolution,S.ST
 S.VA.EM,Empathy,S.VA
 S.ST.DWO,Dealing with Objection,S.ST
 S.VA.PRO,Professionalism,S.VA
-I,Information
-I.SD,Software Development,I
+I,Information Systems,
+I.SDLC,Software Development Lifecycle,I
 I.DA,Data and Analytics,I
 I.DB,Database Systems,I
 I.PL,Programming Languages,I
-I.WD,Web Development,I
+I.AWD,App/Web Development,I
 I.CC,Cloud Computing,I
-I.CY,Cybersecurity,I
 I.AI,AI and ML,I
 I.OP,Operating Platforms,I
 I.DA.VIS,Data Visualization,I.DA
 I.DA.MOD,Data Modeling,I.DA
-I.DA.DW,Data Warehousing,I.DA
+I.DA.GOV,Data Governance,I.DA
 I.DA.ARC,Data Architecture,I.DA
 I.DA.ENG,Data Engineering,I.DA
 I.PL.CPP,C++,I.PL
@@ -72,4 +71,25 @@ I.PL.PY,Python,I.PL
 I.SD.VC,Version Control,I.SD
 I.SD.AG,Agile Methodologies,I.SD
 I.SD.CI,CI/CD,I.SD
-I.SD.SCI,Computer Science,I.SD
+I.SD.SCI,Development Frameworks,I.SD
+I.DA.DAE,Analytical Engineering,I.DA
+I.DA.VIS.DASH,Dashboard Design,I.DA.VIS
+I.DA.VIS.RPT,Report Design,I.DA.VIS
+I.DA.VIS.PBI,Power BI,I.DA.VIS
+I.DA.VIS.Tableau,Tableau,I.DA.VIS
+I.DA.VIS.Quicksight,Quicksight,I.DA.VIS
+I.DA.VIS.Looker,Looker,I.DA.VIS
+I.DA.VIS.DES,Visualization Design,I.DA.VIS
+I.DA.VIS.ENG,Visualization Engineering,I.DA.VIS
+I.DA.MOD.DIM,Dimensional Modeling,I.DA.MOD
+I.DA.MOD.DOM,Domain Modeling,I.DA.MOD
+I.DA.MOD.SYM,Symantic Modeling,I.DA.MOD
+I.DA.MOD.ENT,Entity Relational Modeling,I.DA.MOD
+I.DA.MOD.OLA,OLAP Modeling,I.DA.MOD
+I.DA.GOV.QUAL,Data Quality,I.DA.GOV
+I.DA.GOV.SECU,Data Security,I.DA.GOV
+I.DA.GOV.STEW,Data Stewarship,I.DA.GOV
+I.DA.GOV.MANA,Data Management,I.DA.GOV
+I.DA.GOV.COMP,Data Compliance,I.DA.GOV
+I.DA.GOV.METAD,Metadata,I.DA.GOV
+I.DA.GOV.TAXON,Taxonomy,I.DA.GOV
