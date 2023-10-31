@@ -1,5 +1,28 @@
 id,name,parentId
-S.IP,Interpersonal,S 
-S.VA,Values,S 
-S.AT,Attributes,S 
-S.ST,Situational,S 
+S,Values and Skills,
+S.VA,Values,S
+S.AT,Attributes,S
+S.ST,Situational Skills,S
+S.AT.FLX,Flexibility,S.AT
+S.AT.IND,Independent,S.AT
+S.ST.AT,Analytical Thinking,S.ST
+S.AT.COL,Collaborative,S.AT
+S.ST.CT,Critical Thinking,S.ST
+S.VA.DO,Attention to Detail,S.VA
+S.AT.PS,Problem Solving,S.AT
+S.AT.TI,Initiatve Taker,S.AT
+S.VA.RES,Responsibility,S.VA
+S.VA.O,Ownership,S.VA
+S.ST.TL,Team Leader,S.AT
+S.AT.TM,Time Management,S.ST
+S.VA.C,Communication,S.VA
+S.AT.INN,Innovative,S.AT
+S.ST.C,Coordnating Teams,S.ST
+S.AT.P,Proactive,S.AT
+S.VA.REL,Reliability,S.VA
+S.ST.CRE,Creative Thinking,S.ST
+S.ST.ST,Strategic Thinking,S.ST
+S.ST.CON,Conflict Resolution,S.ST
+S.VA.EM,Empathy,S.VA
+S.ST.DWO,Dealing with Objection,S.ST
+S.VA.PRO,Professionalism,S.VA

@@ -1,5 +1,23 @@
 id,name,parentId
+B,Business,
 B.MG,Management,B
 B.OP,Operations,B
 B.AD,Administration,B
 B.AP,Applications,B
+B.MG.ME,Mentoring,B.MG
+B.MG.TR,Training,B.MG
+B.MG.TM,Tearm Management,B.MG
+B.MG.VM,Vendor Management,B.MG
+B.OP.CLT,Client Relations,B.OP
+B.OP.STK,Stakeholder Management,B.OP
+B.OP.BPI,Process Improvement,B.OP
+B.OP.RSK,Risk Management,B.OP
+B.OP.CMP,Compliance,B.OP
+B.AD.CON,Contract Management,B.AD
+B.AD.SCH,Scheduling,B.AD
+B.AD.INV,Inventory Management,B.AD
+B.AP.OFF,M365,B.AP
+B.AP.CRM,CRM,B.AP
+B.AP.CDP,CDP,B.AP
+B.AP.FIN,Financial Software,B.AP
+B.AP.MKT,Marketing Applications,B.AP
