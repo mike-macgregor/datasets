@@ -1,0 +1,27 @@
+id,name,parentId,employer,position,weight
+I.DA.VIS,Data Visualization,I.DA,ACME,Data Nerd,2
+I.DA.MOD,Data Modeling,I.DA,ACME,Data Nerd,1
+I.DA.GOV,Data Governance,I.DA,ACME,Data Nerd,0.5
+I.DA.ARC,Data Architecture,I.DA,ACME,Data Nerd,6
+I.DA.ENG,Data Engineering,I.DA,ACME,Data Nerd,6
+I.SDLC.VC,Version Control,I.SDLC,ACME,Data Nerd,0.5
+I.SDLC.AG,Agile Methodologies,I.SDLC,ACME,Data Nerd,1
+I.SDLC.CI,CI/CD,I.SDLC,ACME,Data Nerd,0.5
+I.SDLC.SCI,Development Frameworks,I.SDLC,ACME,Data Nerd,0.5
+I.DA.DAE,Analytical Engineering,I.DA,ACME,Data Nerd,1
+I.DA.VIS.DASH,Dashboard Design,I.DA.VIS,ACME,Data Nerd,0.5
+I.DA.VIS.RPT,Report Design,I.DA.VIS,ACME,Data Nerd,0.5
+I.DA.VIS.PBI,Power BI,I.DA.VIS,ACME,Data Nerd,2
+I.DA.MOD.DIM,Dimensional Modeling,I.DA.MOD,ACME,Data Nerd,1
+I.DA.GOV.QUAL,Data Quality,I.DA.GOV,ACME,Data Nerd,2
+I.DA.GOV.SEC,Data Security,I.DA.GOV,ACME,Data Nerd,2
+I.DA.GOV.COMP,Data Compliance,I.DA.GOV,ACME,Data Nerd,4
+I.DA.GOV.META,Metadata,I.DA.GOV,ACME,Data Nerd,2
+I.DA.GOV.TAXO,Taxonomy,I.DA.GOV,ACME,Data Nerd,1
+I.DB,Database Systems,I,,,
+I.DB.REL,Relational Data,I.DB,ACME,Data Nerd,8
+I.DB.DOC,Document Data,I.DB,ACME,Data Nerd,
+I.DB.KVP,Key-value Data,I.DB,ACME,Data Nerd,
+I.DB.GPH,Graph Data,I.DB,ACME,Data Nerd,
+I.DB.VEC,Vector Data,I.DB,ACME,Data Nerd,
+I.DB.GEO,Geographical Data,I.DB,ACME,Data Nerd,
