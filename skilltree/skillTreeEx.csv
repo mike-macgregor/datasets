@@ -17,14 +17,14 @@ B.OP.CLT,Client Relations,Operations,Business
 B.OP.CMP,Compliance,Operations,Business
 B.OP.RSK,Risk Management,Operations,Business
 B.OP.STK,Stakeholder Management,Operations,Business
-B.ST.AT,Analytical Thinking,Situational Skills, Business
-B.ST.C,Coordnating Teams,Situational Skills, Business
-B.ST.CON,Conflict Resolution,Situational Skills, Business
-B.ST.CRE,Creative Thinking,Situational Skills, Business
-B.ST.CT,Critical Thinking,Situational Skills, Business
-B.ST.DWO,Dealing with Objection,Situational Skills, Business
-B.ST.ST,Strategic Thinking,Situational Skills, Business
-B.ST.TL,Team Leader,Situational Skills, Business
+B.ST.AT,Analytical Thinking,Situational Skills,Business
+B.ST.C,Coordnating Teams,Situational Skills,Business
+B.ST.CON,Conflict Resolution,Situational Skills,Business
+B.ST.CRE,Creative Thinking,Situational Skills,Business
+B.ST.CT,Critical Thinking,Situational Skills,Business
+B.ST.DWO,Dealing with Objection,Situational Skills,Business
+B.ST.ST,Strategic Thinking,Situational Skills,Business
+B.ST.TL,Team Leader,Situational Skills,Business
 I.CC.AZ,Azure,Cloud Computing,Technical
 I.CC.AWS,AWS,Cloud Computing,Technical
 I.CC.GCP,Google Cloud,Cloud Computing,Technical
