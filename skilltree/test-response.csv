@@ -1,4 +1,4 @@
-id,name,parentId,employer,position,weight
+ids,labels,parents,employer,position,weight
 I.DA.VIS,Data Visualization,I.DA,ACME,Data Nerd,2
 I.DA.MOD,Data Modeling,I.DA,ACME,Data Nerd,1
 I.DA.GOV,Data Governance,I.DA,ACME,Data Nerd,0.5

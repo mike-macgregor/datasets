@@ -1,4 +1,4 @@
-id,name,parentId
+ids,labels,parents
 B,Business,
 B.AD,Administration,B
 B.AD.CON,Contract Management,B.AD
