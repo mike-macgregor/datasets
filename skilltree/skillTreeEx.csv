@@ -26,18 +26,18 @@ I.DA.ENG,Data Engineering,Data and Analytics,Technical
 I.DA.GOV,Data Governance,Data and Analytics,Technical
 I.DA.MOD,Data Modeling,Data and Analytics,Technical
 I.DA.VIZ,Data Visualization,Data and Analytics,Technical
-I.DB.DOC,Document Data,Database Systems,Techcnical
-I.DB.GEO,Geographical Data,Database Systems,Techcnical
-I.DB.GPH,Graph Data,Database Systems,Techcnical
-I.DB.KVP,Key-value Data,Database Systems,Techcnical
-I.DB.REL,Relational Data,Database Systems,Techcnical
-I.DB.COL,Columnar Data,Database Systems,Techcnical
-I.DB.VEC,Vector Data,Database Systems,Techcnical
-I.OP.WIN,Windows,Operating Platforms,Techcnical
-I.OP.MAC,Mac OS,Operating Platforms,Techcnical
-I.OP.LNX,Linux,Operating Platforms,Techcnical
-I.OP.VM,Virtual Machines,Operating Platforms,Techcnical
-I.OP.DK,Containers,Operating Platforms,Techcnical
+I.DB.DOC,Document Data,Database Systems,Technical
+I.DB.GEO,Geographical Data,Database Systems,Technical
+I.DB.GPH,Graph Data,Database Systems,Technical
+I.DB.KVP,Key-value Data,Database Systems,Technical
+I.DB.REL,Relational Data,Database Systems,Technical
+I.DB.COL,Columnar Data,Database Systems,Technical
+I.DB.VEC,Vector Data,Database Systems,Technical
+I.OP.WIN,Windows,Operating Platforms,Technical
+I.OP.MAC,Mac OS,Operating Platforms,Technical
+I.OP.LNX,Linux,Operating Platforms,Technical
+I.OP.VM,Virtual Machines,Operating Platforms,Technical
+I.OP.DK,Containers,Operating Platforms,Technical
 I.PL.CPP,C++,Programming Languages,Technical
 I.PL.CSH,C#,Programming Languages,Technical
 I.PL.C,C,Programming Languages,Technical
