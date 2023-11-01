@@ -1,96 +1,95 @@
 id,name,parentId
 B,Business,
-B.MG,Management,B
-B.OP,Operations,B
 B.AD,Administration,B
-B.AP,Applications,B
-B.MG.ME,Mentoring,B.MG
-B.MG.TR,Training,B.MG
-B.MG.TM,Tearm Management,B.MG
-B.MG.VM,Vendor Management,B.MG
-B.OP.CLT,Client Relations,B.OP
-B.OP.STK,Stakeholder Management,B.OP
-B.OP.BPI,Process Improvement,B.OP
-B.OP.RSK,Risk Management,B.OP
-B.OP.CMP,Compliance,B.OP
 B.AD.CON,Contract Management,B.AD
-B.AD.SCH,Scheduling,B.AD
 B.AD.INV,Inventory Management,B.AD
-B.AP.OFF,M365,B.AP
-B.AP.CRM,CRM,B.AP
+B.AD.SCH,Scheduling,B.AD
+B.AP,Applications,B
 B.AP.CDP,CDP,B.AP
+B.AP.CRM,CRM,B.AP
 B.AP.FIN,Financial Software,B.AP
 B.AP.MKT,Marketing Applications,B.AP
-S,Soft Skills,
-S.VA,Values,S
-S.AT,Attributes,S
-S.ST,Situational,S
-S.AT.FLX,Flexibility,S.AT
-S.AT.IND,Independent,S.AT
-S.ST.AT,Analytical Thinking,S.ST
-S.AT.COL,Collaborative,S.AT
-S.ST.CT,Critical Thinking,S.ST
-S.VA.DO,Attention to Detail,S.VA
-S.AT.PS,Problem Solving,S.AT
-S.AT.TI,Initiatve Taker,S.AT
-S.VA.RES,Responsibility,S.VA
-S.VA.O,Ownership,S.VA
-S.ST.TL,Team Leader,S.AT
-S.AT.TM,Time Management,S.ST
-S.VA.C,Communication,S.VA
-S.AT.INN,Innovative,S.AT
-S.ST.C,Coordnating Teams,S.ST
-S.AT.P,Proactive,S.AT
-S.VA.REL,Reliability,S.VA
-S.ST.CRE,Creative Thinking,S.ST
-S.ST.ST,Strategic Thinking,S.ST
-S.ST.CON,Conflict Resolution,S.ST
-S.VA.EM,Empathy,S.VA
-S.ST.DWO,Dealing with Objection,S.ST
-S.VA.PRO,Professionalism,S.VA
+B.AP.OFF,M365,B.AP
+B.MG,Management,B
+B.MG.ME,Mentoring,B.MG
+B.MG.TM,Tearm Management,B.MG
+B.MG.TR,Training,B.MG
+B.MG.VM,Vendor Management,B.MG
+B.OP,Operations,B
+B.OP.BPI,Process Improvement,B.OP
+B.OP.CLT,Client Relations,B.OP
+B.OP.CMP,Compliance,B.OP
+B.OP.RSK,Risk Management,B.OP
+B.OP.STK,Stakeholder Management,B.OP
 I,Information Systems,
-I.SDLC,Software Development Lifecycle,I
-I.DA,Data and Analytics,I
-I.PL,Programming Languages,I
+I.AI,AI and ML,I
 I.AWD,App/Web Development,I
 I.CC,Cloud Computing,I
-I.AI,AI and ML,I
-I.OP,Operating Platforms,I
-I.DA.VIS,Data Visualization,I.DA
-I.DA.MOD,Data Modeling,I.DA
-I.DA.GOV,Data Governance,I.DA
+I.DA,Data and Analytics,I
 I.DA.ARC,Data Architecture,I.DA
-I.DA.ENG,Data Engineering,I.DA
-I.PL.CPP,C++,I.PL
-I.SDLC.VC,Version Control,I.SDLC
-I.SDLC.AG,Agile Methodologies,I.SDLC
-I.SDLC.CI,CI/CD,I.SDLC
-I.SDLC.SCI,Development Frameworks,I.SDLC
 I.DA.DAE,Analytical Engineering,I.DA
-I.DA.VIS.DASH,Dashboard Design,I.DA.VIS
-I.DA.VIS.RPT,Report Design,I.DA.VIS
-I.DA.VIS.PBI,Power BI,I.DA.VIS
-I.DA.VIS.TAB,Tableau,I.DA.VIS
-I.DA.VIS.QS,Quicksight,I.DA.VIS
-I.DA.VIS.LKR,Looker,I.DA.VIS
-I.DA.VIS.DES,Visualization Design,I.DA.VIS
-I.DA.VIS.ENG,Visualization Engineering,I.DA.VIS
-I.DA.MOD.DIM,Dimensional Modeling,I.DA.MOD
-I.DA.MOD.DOM,Domain Modeling,I.DA.MOD
-I.DA.MOD.SYM,Symantic Modeling,I.DA.MOD
-I.DA.MOD.ENT,Entity Relational Modeling,I.DA.MOD
-I.DA.MOD.OLA,OLAP Modeling,I.DA.MOD
+I.DA.ENG,Data Engineering,I.DA
+I.DA.GOV,Data Governance,I.DA
+I.DA.GOV.COMP,Data Compliance,I.DA.GOV
+I.DA.GOV.META,Metadata,I.DA.GOV
+I.DA.GOV.MGT,Data Management,I.DA.GOV
 I.DA.GOV.QUAL,Data Quality,I.DA.GOV
 I.DA.GOV.SEC,Data Security,I.DA.GOV
 I.DA.GOV.STEW,Data Stewarship,I.DA.GOV
-I.DA.GOV.MGT,Data Management,I.DA.GOV
-I.DA.GOV.COMP,Data Compliance,I.DA.GOV
-I.DA.GOV.META,Metadata,I.DA.GOV
 I.DA.GOV.TAXO,Taxonomy,I.DA.GOV
+I.DA.MOD,Data Modeling,I.DA
+I.DA.MOD.DIM,Dimensional Modeling,I.DA.MOD
+I.DA.MOD.DOM,Domain Modeling,I.DA.MOD
+I.DA.MOD.ENT,Entity Relational Modeling,I.DA.MOD
+I.DA.MOD.OLA,OLAP Modeling,I.DA.MOD
+I.DA.MOD.SYM,Symantic Modeling,I.DA.MOD
+I.DA.VIS,Data Visualization,I.DA
+I.DA.VIS.DASH,Dashboard Design,I.DA.VIS
+I.DA.VIS.DES,Visualization Design,I.DA.VIS
+I.DA.VIS.ENG,Visualization Engineering,I.DA.VIS
+I.DA.VIS.LKR,Looker,I.DA.VIS
+I.DA.VIS.PBI,Power BI,I.DA.VIS
+I.DA.VIS.QS,Quicksight,I.DA.VIS
+I.DA.VIS.RPT,Report Design,I.DA.VIS
+I.DA.VIS.TAB,Tableau,I.DA.VIS
 I.DB,Database Systems,I
-I.DB.REL,Relational Data,I.DB
 I.DB.DOC,Document Data,I.DB
-I.DB.KVP,Key-value Data,I.DB
-I.DB.GPH,Graph Data,I.DB
-I.DB.VEC,Vector Data,I.DB
 I.DB.GEO,Geographical Data,I.DB
+I.DB.GPH,Graph Data,I.DB
+I.DB.KVP,Key-value Data,I.DB
+I.DB.REL,Relational Data,I.DB
+I.DB.VEC,Vector Data,I.DB
+I.OP,Operating Platforms,I
+I.PL,Programming Languages,I
+I.PL.CPP,C++,I.PL
+I.SDLC,Software Development Lifecycle,I
+I.SDLC.AG,Agile Methodologies,I.SDLC
+I.SDLC.CI,CI/CD,I.SDLC
+I.SDLC.SCI,Development Frameworks,I.SDLC
+I.SDLC.VC,Version Control,I.SDLC
+A,Attributes,
+A.COL,Collaborative,A
+A.FLX,Flexibility,A
+A.IND,Independent,A
+A.INN,Innovative,A
+A.PACT,Proactive,A
+A.PRB,Problem Solving,A
+A.INIT,Initiatve Taker,A
+A.TM,Time Management,A
+B.ST,Situational,B
+S.ST.AT,Analytical Thinking,B.ST
+S.ST.C,Coordnating Teams,B.ST
+S.ST.CON,Conflict Resolution,B.ST
+S.ST.CRE,Creative Thinking,B.ST
+S.ST.CT,Critical Thinking,B.ST
+S.ST.DWO,Dealing with Objection,B.ST
+S.ST.ST,Strategic Thinking,B.ST
+S.ST.TL,Team Leader,B.ST
+V,Values,
+V.CM,Communication,V
+V.AD,Attention to Detail,V
+V.EM,Empathy,V
+V.OW,Ownership,V
+V.PRO,Professionalism,V
+V.REL,Reliability,V
+V.RES,Responsibility,V
