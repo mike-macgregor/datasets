@@ -25,6 +25,9 @@ I,Information Systems,
 I.AI,AI and ML,I
 I.AWD,App/Web Development,I
 I.CC,Cloud Computing,I
+I.CC.AZ,Azure,I.CC
+I.CC.AWS,AWS,I.CC
+I.CC.GCP,Google Cloud,I.CC
 I.DA,Data and Analytics,I
 I.DA.ARC,Data Architecture,I.DA
 I.DA.DAE,Analytical Engineering,I.DA
@@ -62,6 +65,10 @@ I.DB.VEC,Vector Data,I.DB
 I.OP,Operating Platforms,I
 I.PL,Programming Languages,I
 I.PL.CPP,C++,I.PL
+I.PL.CSH,C#,I.PL
+I.PL.C,C,I.PL
+I.PL.PY,Python,I.PL
+I.PL.JV,Java,I.PL
 I.SDLC,Software Development Lifecycle,I
 I.SDLC.AG,Agile Methodologies,I.SDLC
 I.SDLC.CI,CI/CD,I.SDLC
