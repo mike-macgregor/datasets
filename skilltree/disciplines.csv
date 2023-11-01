@@ -3,6 +3,7 @@ B.AD,Administration,B
 B.AP,Applications,B
 B.MG,Management,B
 B.OP,Operations,B
+B.ST,Situational Skills,B
 I,Technical,
 I.AI,AI and ML,I
 I.AWD,App/Web Development,I
@@ -12,4 +13,3 @@ I.DB,Database Systems,I
 I.OP,Operating Platforms,I
 I.PL,Programming Languages,I
 I.SDLC,Software Development Lifecycle,I
-B.ST,Situational Skills,B
