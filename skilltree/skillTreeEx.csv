@@ -1,0 +1,57 @@
+ids,labels,disciplines,domains
+B.AD.CON,Contract Management,Administration,Business
+B.AD.INV,Inventory Management,Administration,Business
+B.AD.SCH,Scheduling,Administration,Business
+B.AP,Applications,Administration,Business
+B.AP.CDP,CDP,Applications,Business
+B.AP.CRM,CRM,Applications,Business
+B.AP.FIN,Financial Software,Applications,Business
+B.AP.MKT,Marketing Applications,Applications,Business
+B.AP.OFF,M365,Applications,Business
+B.MG.ME,Mentoring,Management,Business
+B.MG.TM,Tearm Management,Management,Business
+B.MG.TR,Training,Management,Business
+B.MG.VM,Vendor Management,Management,Business
+B.OP.BPI,Process Improvement,Operations,Business
+B.OP.CLT,Client Relations,Operations,Business
+B.OP.CMP,Compliance,Operations,Business
+B.OP.RSK,Risk Management,Operations,Business
+B.OP.STK,Stakeholder Management,Operations,Business
+I.CC.AZ,Azure,Cloud Computing,Technical
+I.CC.AWS,AWS,Cloud Computing,Technical
+I.CC.GCP,Google Cloud,Cloud Computing,Technical
+I.DA.ARC,Data Architecture,Data and Analytics,Technical
+I.DA.DAE,Analytical Engineering,Data and Analytics,Technical
+I.DA.ENG,Data Engineering,Data and Analytics,Technical
+I.DA.GOV,Data Governance,Data and Analytics,Technical
+I.DA.MOD,Data Modeling,Data and Analytics,Technical
+I.DA.VIZ,Data Visualization,Data and Analytics,Technical
+I.DB.DOC,Document Data,Database Systems,Techcnical
+I.DB.GEO,Geographical Data,Database Systems,Techcnical
+I.DB.GPH,Graph Data,Database Systems,Techcnical
+I.DB.KVP,Key-value Data,Database Systems,Techcnical
+I.DB.REL,Relational Data,Database Systems,Techcnical
+I.DB.COL,Columnar Data,Database Systems,Techcnical
+I.DB.VEC,Vector Data,Database Systems,Techcnical
+I.OP.WIN,Windows,Operating Platforms,Techcnical
+I.OP.MAC,Mac OS,Operating Platforms,Techcnical
+I.OP.LNX,Linux,Operating Platforms,Techcnical
+I.OP.VM,Virtual Machines,Operating Platforms,Techcnical
+I.OP.DK,Containers,Operating Platforms,Techcnical
+I.PL.CPP,C++,Programming Languages,Technical
+I.PL.CSH,C#,Programming Languages,Technical
+I.PL.C,C,Programming Languages,Technical
+I.PL.PY,Python,Programming Languages,Technical
+I.PL.JV,Java,Programming Languages,Technical
+I.SDLC.AG,Agile Methodologies,Software Development,Technical
+I.SDLC.CI,CI/CD,Software Development,Technical
+I.SDLC.SCI,Development Frameworks,Software Development,Technical
+I.SDLC.VC,Version Control,Software Development,Technical
+B.ST.AT,Analytical Thinking,Situational Skills, Business
+B.ST.C,Coordnating Teams,Situational Skills, Business
+B.ST.CON,Conflict Resolution,Situational Skills, Business
+B.ST.CRE,Creative Thinking,Situational Skills, Business
+B.ST.CT,Critical Thinking,Situational Skills, Business
+B.ST.DWO,Dealing with Objection,Situational Skills, Business
+B.ST.ST,Strategic Thinking,Situational Skills, Business
+B.ST.TL,Team Leader,Situational Skills, Business
