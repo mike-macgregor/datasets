@@ -61,8 +61,14 @@ I.DB.GEO,Geographical Data,I.DB
 I.DB.GPH,Graph Data,I.DB
 I.DB.KVP,Key-value Data,I.DB
 I.DB.REL,Relational Data,I.DB
+I.DB.COL,Columnar Data,I.DB
 I.DB.VEC,Vector Data,I.DB
 I.OP,Operating Platforms,I
+I.OP.WIN,Windows,I.OP
+I.OP.MAC,Mac OS,I.OP
+I.OP.LNX,Linux,I.OP
+I.OP.VM,Virtual Machines,I.OP
+I.OP.DK,Containers,I.OP
 I.PL,Programming Languages,I
 I.PL.CPP,C++,I.PL
 I.PL.CSH,C#,I.PL
@@ -74,29 +80,12 @@ I.SDLC.AG,Agile Methodologies,I.SDLC
 I.SDLC.CI,CI/CD,I.SDLC
 I.SDLC.SCI,Development Frameworks,I.SDLC
 I.SDLC.VC,Version Control,I.SDLC
-A,Attributes,
-A.COL,Collaborative,A
-A.FLX,Flexibility,A
-A.IND,Independent,A
-A.INN,Innovative,A
-A.PACT,Proactive,A
-A.PRB,Problem Solving,A
-A.INIT,Initiatve Taker,A
-A.TM,Time Management,A
-B.ST,Situational,B
-S.ST.AT,Analytical Thinking,B.ST
-S.ST.C,Coordnating Teams,B.ST
-S.ST.CON,Conflict Resolution,B.ST
-S.ST.CRE,Creative Thinking,B.ST
-S.ST.CT,Critical Thinking,B.ST
-S.ST.DWO,Dealing with Objection,B.ST
-S.ST.ST,Strategic Thinking,B.ST
-S.ST.TL,Team Leader,B.ST
-V,Values,
-V.CM,Communication,V
-V.AD,Attention to Detail,V
-V.EM,Empathy,V
-V.OW,Ownership,V
-V.PRO,Professionalism,V
-V.REL,Reliability,V
-V.RES,Responsibility,V
+B.ST,Situational Skills,B
+B.ST.AT,Analytical Thinking,B.ST
+B.ST.C,Coordnating Teams,B.ST
+B.ST.CON,Conflict Resolution,B.ST
+B.ST.CRE,Creative Thinking,B.ST
+B.ST.CT,Critical Thinking,B.ST
+B.ST.DWO,Dealing with Objection,B.ST
+B.ST.ST,Strategic Thinking,B.ST
+B.ST.TL,Team Leader,B.ST
