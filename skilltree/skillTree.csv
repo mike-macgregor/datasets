@@ -1,61 +1,52 @@
 ids,labels,parents
 B,Business,
+I,Technical,
+B.ST,Situational Skills,B
 B.AD,Administration,B
+B.AP,Applications,B
+B.MG,Management,B
+B.OP,Operations,B
+I.AI,AI and ML,I
+I.AWD,App/Web Development,I
+I.CC,Cloud Computing,I
+I.DA,Data and Analytics,I
+I.DB,Database Systems,I
+I.PL,Programming Languages,I
+I.SDLC,Software Development Lifecycle,I
 B.AD.CON,Contract Management,B.AD
 B.AD.INV,Inventory Management,B.AD
 B.AD.SCH,Scheduling,B.AD
-B.AP,Applications,B
 B.AP.CDP,CDP,B.AP
 B.AP.CRM,CRM,B.AP
 B.AP.FIN,Financial Software,B.AP
 B.AP.MKT,Marketing Applications,B.AP
 B.AP.OFF,M365,B.AP
-B.MG,Management,B
 B.MG.ME,Mentoring,B.MG
 B.MG.TM,Tearm Management,B.MG
 B.MG.TR,Training,B.MG
 B.MG.VM,Vendor Management,B.MG
-B.OP,Operations,B
 B.OP.BPI,Process Improvement,B.OP
 B.OP.CLT,Client Relations,B.OP
 B.OP.CMP,Compliance,B.OP
 B.OP.RSK,Risk Management,B.OP
 B.OP.STK,Stakeholder Management,B.OP
-I,Technical,
-I.AI,AI and ML,I
-I.AWD,App/Web Development,I
-I.CC,Cloud Computing,I
+B.ST.AT,Analytical Thinking,B.ST
+B.ST.C,Coordnating Teams,B.ST
+B.ST.CON,Conflict Resolution,B.ST
+B.ST.CRE,Creative Thinking,B.ST
+B.ST.CT,Critical Thinking,B.ST
+B.ST.DWO,Dealing with Objection,B.ST
+B.ST.ST,Strategic Thinking,B.ST
+B.ST.TL,Team Leader,B.ST
 I.CC.AZ,Azure,I.CC
 I.CC.AWS,AWS,I.CC
 I.CC.GCP,Google Cloud,I.CC
-I.DA,Data and Analytics,I
 I.DA.ARC,Data Architecture,I.DA
 I.DA.DAE,Analytical Engineering,I.DA
 I.DA.ENG,Data Engineering,I.DA
 I.DA.GOV,Data Governance,I.DA
-I.DA.GOV.COMP,Data Compliance,I.DA.GOV
-I.DA.GOV.META,Metadata,I.DA.GOV
-I.DA.GOV.MGT,Data Management,I.DA.GOV
-I.DA.GOV.QUAL,Data Quality,I.DA.GOV
-I.DA.GOV.SEC,Data Security,I.DA.GOV
-I.DA.GOV.STEW,Data Stewarship,I.DA.GOV
-I.DA.GOV.TAXO,Taxonomy,I.DA.GOV
 I.DA.MOD,Data Modeling,I.DA
-I.DA.MOD.DIM,Dimensional Modeling,I.DA.MOD
-I.DA.MOD.DOM,Domain Modeling,I.DA.MOD
-I.DA.MOD.ENT,Entity Relational Modeling,I.DA.MOD
-I.DA.MOD.OLA,OLAP Modeling,I.DA.MOD
-I.DA.MOD.SYM,Symantic Modeling,I.DA.MOD
 I.DA.VIS,Data Visualization,I.DA
-I.DA.VIS.DASH,Dashboard Design,I.DA.VIS
-I.DA.VIS.DES,Visualization Design,I.DA.VIS
-I.DA.VIS.ENG,Visualization Engineering,I.DA.VIS
-I.DA.VIS.LKR,Looker,I.DA.VIS
-I.DA.VIS.PBI,Power BI,I.DA.VIS
-I.DA.VIS.QS,Quicksight,I.DA.VIS
-I.DA.VIS.RPT,Report Design,I.DA.VIS
-I.DA.VIS.TAB,Tableau,I.DA.VIS
-I.DB,Database Systems,I
 I.DB.DOC,Document Data,I.DB
 I.DB.GEO,Geographical Data,I.DB
 I.DB.GPH,Graph Data,I.DB
@@ -69,23 +60,33 @@ I.OP.MAC,Mac OS,I.OP
 I.OP.LNX,Linux,I.OP
 I.OP.VM,Virtual Machines,I.OP
 I.OP.DK,Containers,I.OP
-I.PL,Programming Languages,I
 I.PL.CPP,C++,I.PL
 I.PL.CSH,C#,I.PL
 I.PL.C,C,I.PL
 I.PL.PY,Python,I.PL
 I.PL.JV,Java,I.PL
-I.SDLC,Software Development Lifecycle,I
 I.SDLC.AG,Agile Methodologies,I.SDLC
 I.SDLC.CI,CI/CD,I.SDLC
 I.SDLC.SCI,Development Frameworks,I.SDLC
 I.SDLC.VC,Version Control,I.SDLC
-B.ST,Situational Skills,B
-B.ST.AT,Analytical Thinking,B.ST
-B.ST.C,Coordnating Teams,B.ST
-B.ST.CON,Conflict Resolution,B.ST
-B.ST.CRE,Creative Thinking,B.ST
-B.ST.CT,Critical Thinking,B.ST
-B.ST.DWO,Dealing with Objection,B.ST
-B.ST.ST,Strategic Thinking,B.ST
-B.ST.TL,Team Leader,B.ST
+
+I.DA.GOV.COMP,Data Compliance,I.DA.GOV
+I.DA.GOV.META,Metadata,I.DA.GOV
+I.DA.GOV.MGT,Data Management,I.DA.GOV
+I.DA.GOV.QUAL,Data Quality,I.DA.GOV
+I.DA.GOV.SEC,Data Security,I.DA.GOV
+I.DA.GOV.STEW,Data Stewarship,I.DA.GOV
+I.DA.GOV.TAXO,Taxonomy,I.DA.GOV
+I.DA.MOD.DIM,Dimensional Modeling,I.DA.MOD
+I.DA.MOD.DOM,Domain Modeling,I.DA.MOD
+I.DA.MOD.ENT,Entity Relational Modeling,I.DA.MOD
+I.DA.MOD.OLA,OLAP Modeling,I.DA.MOD
+I.DA.MOD.SYM,Symantic Modeling,I.DA.MOD
+I.DA.VIS.DASH,Dashboard Design,I.DA.VIS
+I.DA.VIS.DES,Visualization Design,I.DA.VIS
+I.DA.VIS.ENG,Visualization Engineering,I.DA.VIS
+I.DA.VIS.LKR,Looker,I.DA.VIS
+I.DA.VIS.PBI,Power BI,I.DA.VIS
+I.DA.VIS.QS,Quicksight,I.DA.VIS
+I.DA.VIS.RPT,Report Design,I.DA.VIS
+I.DA.VIS.TAB,Tableau,I.DA.VIS
