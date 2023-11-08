@@ -5,6 +5,7 @@
     "byline":"Hodor. Hodor hodor, hodor. Hodor hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor; hodor hodor hodor. Hodor. Hodor hodor; hodor hodor - hodor, hodor, hodor hodor. Hodor, hodor.",
     "experiences":[
         {
+            "pid":"AADOA",
             "employer":"ACME Analytics",
             "position":"Director of Analysts",
             "startdate":"2019-04-23",
@@ -17,8 +18,19 @@
                 "Sed vulputate odio ut enim blandit volutpat maecenas volutpat. Sit amet risus nullam eget felis. Vel risus commodo viverra maecenas accumsan lacus vel. Semper auctor neque vitae tempus quam pellentesque nec nam aliquam. Sem integer vitae justo eget. Aliquet nec ullamcorper sit amet risus nullam eget felis eget. Diam ut venenatis tellus in metus vulputate. Ipsum a arcu cursus vitae congue. Bibendum enim facilisis gravida neque convallis a cras semper auctor. Feugiat nisl pretium fusce id velit ut tortor. Mi bibendum neque egestas congue quisque egestas diam. In iaculis nunc sed augue lacus viverra vitae congue eu. Sed vulputate mi sit amet mauris commodo quis. Sapien faucibus et molestie ac feugiat sed lectus vestibulum mattis. Mauris commodo quis imperdiet massa tincidunt nunc. At ultrices mi tempus imperdiet. Velit sed ullamcorper morbi tincidunt. Urna duis convallis convallis tellus id interdum velit laoreet. Fermentum odio eu feugiat pretium nibh ipsum.",
                 "At imperdiet dui accumsan sit amet nulla facilisi morbi. Lorem donec massa sapien faucibus et molestie ac feugiat. Quis risus sed vulputate odio ut enim blandit. Mauris cursus mattis molestie a iaculis. Nunc id cursus metus aliquam. Dui faucibus in ornare quam viverra orci sagittis eu. Nunc mattis enim ut tellus. Erat imperdiet sed euismod nisi. Nulla malesuada pellentesque elit eget gravida. Dui nunc mattis enim ut tellus elementum sagittis vitae et."
             ],
-            "skills":{}
+            "skills":[
+                {"id":"I.DA.ENG","value":6},
+                {"id":"I.DA.MOD","value":4},
+                {"id":"I.DA.GOV","value":8},
+                {"id":"I.DA.ARC","value":10},
+                {"id":"I.SDLC.AG","value":4},
+                {"id":"B.MG.TM","value":8},
+                {"id":"B.OP.STK","value":8},
+                {"id":"B.OP.BPI","value":3},
+                {"id":"B.OP.RSK","value":3}
+            ]
         },{
+            "pid":"AADOA",
             "employer":"ACME Analytics",
             "position":"Manager of Analysts",
             "startdate":"2012-04-23",
@@ -31,9 +43,20 @@
                 "Six pounders mutiny aye swab yawl skysail poop deck spanker holystone barkadeer long clothes fire ship wherry flogging interloper quarter scuppers ho bounty gally ye splice the main brace league rutters. Marooned hail-shot flogging spirits Plate Fleet lass reef sails gunwalls sheet topsail ho swab fathom parley mizzen interloper warp furl square-rigged scurvy bowsprit long clothes gally spanker. Gabion keelhaul lugger belay Sink me ho wench cable scallywag avast transom bowsprit boatswain American Main clipper flogging Jolly Roger Sea Legs pirate run a rig bucko sheet spike take a caulk. Fluke coxswain lad weigh anchor Yellow Jack mizzenmast loot shrouds parrel measured fer yer chains lass killick no prey, no pay black jack Admiral of the Black Barbary Coast interloper hearties wherry heave to six pounders line deadlights squiffy. Arr spirits barque wherry code of conduct mizzen tack loaded to the gunwalls wench fire in the hole jack red ensign rigging bilge rat booty schooner trysail jolly boat rutters clipper log hands galleon hail-shot.",
                 "Doubloon mizzen strike colors bucko chase shrouds matey tack capstan walk the plank no prey, no pay pirate parrel coxswain rope's end chantey case shot carouser furl sloop barkadeer swing the lead gunwalls sutler. Pirate mizzenmast piracy grog blossom stern galleon reef sails belay Privateer transom furl Gold Road skysail jury mast walk the plank black spot shrouds gun man-of-war spirits yardarm rum doubloon cog. Doubloon weigh anchor mizzenmast gangplank fluke overhaul spyglass parrel bilge measured fer yer chains topsail list chase guns tackle grog blossom ho spirits ahoy hogshead grog chase clap of thunder aft Letter of Marque. Barque avast Yellow Jack shrouds lass doubloon pirate gangplank mizzen fluke topsail Privateer gally snow log parley starboard man-of-war yard Jack Ketch hempen halter interloper black jack chantey. Fathom prow hail-shot cable fire in the hole cutlass chase guns lass main sheet hempen halter plunder grog yo-ho-ho bounty hornswaggle aye keelhaul Arr rigging jack grog blossom provost chantey fire ship."
             ],
-            "skills":{}
+            "skills":[
+                {"id":"I.DA.ENG","value":6},
+                {"id":"I.DA.MOD","value":6},
+                {"id":"I.DA.GOV","value":2},
+                {"id":"I.DA.ARC","value":4},
+                {"id":"I.SDLC.AG","value":8},
+                {"id":"B.MG.TM","value":8},
+                {"id":"B.OP.STK","value":4},
+                {"id":"B.OP.BPI","value":2},
+                {"id":"B.MG.ME","value":4}
+            ]
         },
         {
+            "pid":"AADOA",
             "employer":"GROK Systems",
             "position":"Senior Data Analyst",
             "startdate":"2006-05-01",
@@ -45,9 +68,18 @@
                 "Venison swine alcatra turkey. Ribeye andouille beef ribs pig venison shank shoulder. Picanha pancetta tri-tip beef ribs buffalo filet mignon leberkas flank. Drumstick pig kevin porchetta pork loin brisket tri-tip.",
                 "Chicken buffalo shankle biltong kevin turducken. Jerky tenderloin shoulder, ball tip ham hock tongue beef ribs ribeye beef flank shank porchetta frankfurter prosciutto. Sausage beef ribs shoulder meatloaf tenderloin strip steak, frankfurter short loin pastrami ball tip. Prosciutto chislic meatball buffalo meatloaf turkey jowl pork belly ham sausage pig pork chop. Burgdoggen venison drumstick pastrami tri-tip shankle flank ham swine jerky brisket hamburger filet mignon tail landjaeger. Sirloin biltong kielbasa ham hock burgdoggen tri-tip ribeye cupim pig short loin."
             ],
-            "skills":{}
+            "skills":[
+                {"id":"I.DA.ENG","value":8},
+                {"id":"I.DA.MOD","value":6},
+                {"id":"I.DA.GOV","value":2},
+                {"id":"I.DA.ARC","value":12},
+                {"id":"I.SDLC.AG","value":4},
+                {"id":"B.MG.ME","value":8},
+                {"id":"B.OP.STK","value":8}
+            ]
         },
         {
+            "pid":"AADOA",
             "employer":"GROK Systems",
             "position":"DBA",
             "startdate":"2000-05-01",
@@ -60,7 +92,15 @@
                 "Cake apple pie chocolate cake gummi bears soufflé gummi bears tootsie roll chocolate bar. Ice cream halvah candy canes jelly soufflé cotton candy croissant. Bear claw chupa chups soufflé chocolate bar lollipop marzipan jelly-o jelly beans powder. Toffee candy jelly beans soufflé shortbread bear claw. Jelly sweet roll topping pastry macaroon liquorice jujubes carrot cake. Soufflé sesame snaps oat cake shortbread chupa chups jujubes marzipan cake macaroon. Sweet roll donut sweet tart caramels icing cake. Marshmallow dragée brownie sugar plum ice cream gummies cupcake cake. Pie carrot cake jelly-o bear claw lemon drops cookie dessert jelly-o.",
                 "Cupcake jelly marshmallow chupa chups biscuit oat cake. Sweet macaroon chocolate bar tiramisu marshmallow macaroon danish ice cream chocolate bar. Bonbon muffin tart liquorice toffee wafer wafer chocolate cake. Chupa chups macaroon donut oat cake pastry. Danish carrot cake muffin fruitcake jelly bonbon chocolate cake chocolate. Marzipan chocolate cake jelly-o tootsie roll sesame snaps marzipan chupa chups dragée."
             ],
-            "skills":{}
+            "skills":[
+                {"id":"I.DA.ENG","value":8},
+                {"id":"I.DA.MOD","value":6},
+                {"id":"I.DA.GOV","value":2},
+                {"id":"I.DA.ARC","value":6},
+                {"id":"I.SDLC.AG","value":4},
+                {"id":"B.AD.INV","value":8},
+                {"id":"B.OP.BPI","value":8}
+            ]
         }
     ]
 }
